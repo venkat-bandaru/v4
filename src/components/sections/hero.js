@@ -63,10 +63,9 @@ const Hero = () => {
   const three = <h3 className="medium-heading">Quality ...is everyone's responsibility.</h3>;
     const four = (
     <p>
-      As a Quality Engineering Lead of major financial institution in United Kingdom, I work as hands-on SDeT on automation,
-      accessibility, microservices/API and ETL testing and responsible for shaping Quality Engineers towards Shift Left Engineering.
-	  Holding certifications from Microsoft Azure, Sun Certified Java Professional, International Software Testing Qualifications Board.
-	  Currently, I'm an engineer at{' '}
+      As a Quality Engineering Lead of major financial institution in United Kingdom, I work as hands-on SDeT on automation, accessibility, 
+      microservices/API and ETL testing and responsible for shaping Quality Engineers towards Shift Left Engineering. Holding certifications from
+      Microsoft Azure, SCJP, International Software Testing Qualifications Board. Currently, I'm an engineer at{' '}
       <a href="https://www.accenture.com/" target="_blank" rel="noreferrer">
         Accenture
       </a>{' '}
