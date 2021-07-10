@@ -60,7 +60,7 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Venkat Bandaru.</h2>;
-  const three = <h3 className="big-heading">Quality ...is everyone's responsibility.</h3>;
+  const three = <h3 className="medium-heading">Quality ...is everyone's responsibility.</h3>;
     const four = (
     <p>
       As a Quality Engineering Lead of major financial institution in United Kingdom, I work as hands-on SDeT on automation,
