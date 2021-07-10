@@ -63,12 +63,14 @@ const Hero = () => {
   const three = <h3 className="big-heading">Software Developer, Test automation enthusiast.</h3>;
   const four = (
     <p>
-      I'm a Boston-based software engineer who specializes in building (and occasionally designing)
-      exceptional digital experiences. Currently, I'm an engineer at{' '}
-      <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-        Upstatement
+      As a Quality Engineering Lead of major financial institution in United Kingdom, I work as hands-on SDeT on automation,
+      accessibility, microservices/API and ETL testing and responsible for shaping Quality Engineers towards Shift Left Engineering.
+	  Holding certifications from Microsoft Azure, Sun Certified Java Professional, International Software Testing Qualifications Board.
+	  Currently, I'm an engineer at{' '}
+      <a href="https://www.accenture.com/" target="_blank" rel="noreferrer">
+        Accenture
       </a>{' '}
-      focused on building accessible, human-centered products.
+      focused on building solutions/codeless tools to testers to play(find bugs) in application.
     </p>
   );
   const five = (
